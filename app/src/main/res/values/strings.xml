@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProyectoMvp</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_password">contraseña</string>
+    <string name="txt_button_login">login</string>
+    <string name="dont_haven_acount">¿No tienes Cuenta?,</string>
+    <string name="create_here">Crea una aqui</string>
+</resources>
